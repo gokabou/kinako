@@ -3,7 +3,7 @@
 " named	KINAKO.
 "
 " File:                kinako.vim
-" URL:                 https://github.com/gokabou
+" URL:                 https://github.com/gokabou/kinako/kinako.vim
 " Author:              Gokabou (Tajima Takayoshi)
 " Laboratory:          Softlab
 " Version:             0.1
