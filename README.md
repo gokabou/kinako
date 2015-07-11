@@ -1,0 +1,3 @@
+# CUI Vim Colorscheme KINAKO
+
+===
