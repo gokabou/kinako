@@ -27,7 +27,7 @@ hi Statement                   ctermfg=161
 hi PreProc                     ctermfg=130
 hi Type                        ctermfg=161
 hi Special                     ctermfg=1
-hi Underlined                  ctermfg=21
+hi Underlined                  ctermfg=6
 
 " Linking Group
 hi String                      ctermfg=9
